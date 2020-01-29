@@ -1,0 +1,1 @@
+On this project we are going to learning abouth linux shell and C comands
