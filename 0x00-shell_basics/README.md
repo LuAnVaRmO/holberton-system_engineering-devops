@@ -1,1 +1,1 @@
-On this project we are going to learning abouth linux shell and C comands
+Another README then move all files uppercase at the beginningAnother README then move all files uppercase at the beginning
