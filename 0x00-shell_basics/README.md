@@ -473,6 +473,10 @@ Create a magic file holberton.mgc that can be used with the command file to dete
 	thisisatextfile:       ASCII text
 	ubuntu@ip-172-31-63-244:/tmp/magic$
 
+#### Repo:
+
+##### GitHub repository: holberton-system_engineering-devops
+##### Directory: 0x03-shell_variables_expansions
 #
 ## Autor ✒️
 
