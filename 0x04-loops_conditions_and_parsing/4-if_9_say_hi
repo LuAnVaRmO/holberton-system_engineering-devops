@@ -1,12 +1,11 @@
 #!/usr/bin/env bash
 # This script displays Holberton School 10 times using while loop, on 9th iteration print hi on new line
-i=0
+i=1
 WORD="Holberton School"
-STRING="Hi"
-while [ $i -le 9 ]
+while [ $i -le 10 ]
 do
-	echo "Holberton School"
-	if [ $i -eq 8 ]
+	echo "$WORD"
+	if [ $i -eq 9 ]
 	then
 		echo "Hi"
 	fi
