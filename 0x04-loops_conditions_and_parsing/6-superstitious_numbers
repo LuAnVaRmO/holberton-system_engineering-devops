@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+# This script displays Holberton School 10 times using while loop, on 9th iteration print hi on new line
+i=1
+BLC="bad luck from China"
+BLJ="bad luck from Japan"
+BLI="bad luck from Italy"
+while [ $i -le 20 ]
+do
+	echo "$i"
+	case $i in
+		"4") echo "bad luck from China";;
+		"9") echo "bad luck from Japan";;
+		"17") echo "bad luck from Italy";;
+	esac
+	(( i++ ))
+done

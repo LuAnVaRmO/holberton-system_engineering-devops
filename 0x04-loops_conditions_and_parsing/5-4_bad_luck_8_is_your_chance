@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+# This script displays Holberton School 10 times using while loop, on 9th iteration print hi on new line
+i=0
+WORD="Holberton School"
+GL="good luck"
+BL="bad luck"
+while [ $i -le 9 ]
+do
+	if [ $i -eq 3 ]
+	then
+		echo "$BL"
+	elif [ $i -eq 7 ]
+	then
+		echo "$GL"
+	else
+		echo "$WORD"
+	fi
+	(( i++ ))
+done

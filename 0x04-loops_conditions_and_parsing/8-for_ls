@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Print a script for list current dir  in a list format
+l="$(ls)"
+for i in $l
+do
+    echo "$i" | cut -d '-' -f2
+done
