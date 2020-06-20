@@ -5,7 +5,7 @@
 
 ## Background Context
 
-[![Watch the video](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/6/b07e3333b1edfb9beed5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20200620%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200620T025031Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1381be53e5051d55db86adc769195e34ba8fc8cc2ea4133a9d3b7866286b0486)](https://youtu.be/BC2neyc5GcI)
+[![Watch the video](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.allinthemind.asia%2Fwp-content%2Fuploads%2F2014%2F09%2FPlay-button.jpg&f=1&nofb=1)](https://youtu.be/BC2neyc5GcI)
 
 ### Resources
 #### Read or watch:
