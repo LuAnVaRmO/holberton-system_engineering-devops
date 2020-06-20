@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# This script displays Holberton School 10 times using while loop
+i=0
+WORD="Holberton School"
+while [ $i -le 9 ]
+do
+	echo "$WORD"
+	((i++))
+done
