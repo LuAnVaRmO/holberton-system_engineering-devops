@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Print the PID current bash
+
+pgrep -l bash
