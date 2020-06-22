@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Print in format for user all list of process
+ps -aux
