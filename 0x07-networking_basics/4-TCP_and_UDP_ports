@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Bash to see listening ports
+netstat -lp

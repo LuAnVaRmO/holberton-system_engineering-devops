@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Script that displays the ipv4 conections
+ifconfig|grep 'inet addr'|cut -d ':' -f 2|cut -d ' ' -f1
