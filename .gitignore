@@ -6,3 +6,6 @@
 key
 key.pub
 private key
+0x0B-ssh/holberton
+0x0B-ssh/holberton.pub
+server_keys/
