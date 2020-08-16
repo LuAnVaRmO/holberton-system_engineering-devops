@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 # fix errors
+cat /etc/nginx/sites-available/default > /etc/nginx/sites-enabled/default
 service nginx restart
