@@ -1,7 +1,8 @@
 # create task 0 but with puppet
+
 exec {'update':
-	command => 'sudo apt-get update',
-	provider => shell,
+  command  => 'sudo apt-get update',
+  provider => shell,
 }
 
 package {'nginx':
@@ -18,6 +19,6 @@ file_line {'header'
 }
 
 service {'nginx':
-	ensure => running,
-	require => File_line['header'],
+  ensure  => running,
+  require => File_line['header'],
 }
