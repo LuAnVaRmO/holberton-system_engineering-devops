@@ -6,6 +6,7 @@ exec {'update':
 
 package {'nginx':
 	ensure => installed,
+	require => Exec['update'],
 }
 
 file_line {'header'
