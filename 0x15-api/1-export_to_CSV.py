@@ -1,8 +1,9 @@
 #!/usr/bin/python3
 """ REST Api"""
+import csv
 import requests
 from sys import argv
-import csv
+
 
 
 if __name__ == '__main__':
