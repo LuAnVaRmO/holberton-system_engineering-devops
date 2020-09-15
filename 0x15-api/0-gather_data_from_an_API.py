@@ -27,6 +27,7 @@ if __name__ == '__main__':
     DONE_TASKS = [task for task in TASKS if task.get('completed')]
     NUMBER_OF_DONE_TASKS = len(DONE_TASKS)
     print('Employee {} is done with tasks({}/{}):'
-          .format(EMPLOYEE_NAME.get('name'), NUMBER_OF_DONE_TASKS, TOTAL_NUMBER_OF_TASKS))
+          .format(EMPLOYEE_NAME.get('name'), NUMBER_OF_DONE_TASKS,
+                  TOTAL_NUMBER_OF_TASKS))
     for task in DONE_TASKS:
         print('\t {}'.format(task.get('title')))
