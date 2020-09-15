@@ -1,0 +1,3 @@
+# 0x15. API
+## Background Context
+[![video](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/6/897638f42eb1bad6605d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20200914%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200914T155716Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a8cadab2bebb30f16460a6b378dbece7de0207b8d6d0cda52dd6f5174860dbf7)](https://youtu.be/-2kyU6-j8ZQ)
