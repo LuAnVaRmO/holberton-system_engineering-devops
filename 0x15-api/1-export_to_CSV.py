@@ -5,7 +5,6 @@ import requests
 from sys import argv
 
 
-
 if __name__ == '__main__':
 
     user_id = int(argv[1])
